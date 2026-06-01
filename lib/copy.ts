@@ -22,7 +22,7 @@ export const copy = {
 
   hero: {
     badge: "Trusted by importers, brands, and marketplace sellers",
-    title: "The modern way to run cross-border logistics in the United States",
+    title: "U.S. Warehouse & Fulfillment Partner for Global Brands",
     subtitle:
       "Plan, move, and fulfill inventory from origin through U.S. warehouse and last-mile delivery—with one operations team and one system of record.",
     stat1: "Origin to delivery visibility",
@@ -427,16 +427,13 @@ export const copy = {
 
   contact: {
     title: "Contact",
-    subtitle:
-      "Speak with our team about China-to-USA programs, customs support, or U.S. fulfillment onboarding.",
-    address: "Los Angeles / Inland Empire, California",
-    hours: "Monday – Friday, 8:00 AM – 6:00 PM PT",
-    email: "quotes@olwglobal.com",
-    phone: "+1 (323) 555-0198",
+    subtitle: "Speak with our team about China-to-USA programs, customs support, warehousing, and fulfillment.",
+    address: "10727 Commerce Way Ste C, Fontana, California, 92337",
+    hours: "Monday - Friday, 9:00 AM - 5:00 PM PT",
+    email: "alex.p@olwla.com",
+    phone: "+1 (646) 898-6677",
     hqTitle: "U.S. operations",
     supportTitle: "Supply chain support",
-    supportBody:
-      "Dedicated account management across freight booking, customs milestones, warehouse receiving, and fulfillment SLAs.",
   },
 
   footer: {
