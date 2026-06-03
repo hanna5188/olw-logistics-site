@@ -49,10 +49,10 @@ export default function ContactPage() {
               </div>
 
               <div className="rounded-2xl bg-brand-600 p-8 text-white">
-                <p className="font-semibold">{copy.contact.supportTitle}</p>
-                <p className="mt-2 text-sm text-brand-100">
-                  {copy.contact.supportBody}
-                </p>
+  <p className="font-semibold">{copy.contact.supportTitle}</p>
+  <p className="mt-2 text-sm text-brand-100">{copy.contact.subtitle}</p >  
+
+
               </div>
             </div>
 
